@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.lazy4j</groupId>
-    <artifactId>bean-iterator</artifactId>
+    <artifactId>object-iterator</artifactId>
     <name>bean-iterator</name>
     <version>V0.0.0</version>
 
@@ -21,7 +21,7 @@
 
     <build>
         <!-- 打包的最终名称 -->
-        <finalName>bean-iterator</finalName>
+        <finalName>object-iterator</finalName>
 
         <plugins>
             <!-- 编译配置插件 -->
